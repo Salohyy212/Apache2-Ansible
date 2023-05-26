@@ -65,7 +65,7 @@
  Exécutez la commande suivante pour exécuter le playbook:
  
     ```
-    ansible-playbook -i inventor.ini playbook.yml
+    ansible-playbook -i inventory.ini playbook.yml
     ```
     
 ### Etape 4: Vérification de la configuration
